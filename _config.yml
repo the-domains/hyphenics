@@ -1,0 +1,14 @@
+layout_spectrum: 0.7642026715911925
+typography_spectrum: 0.5773381267208606
+color:
+  brandStrength: 0.49796387762762606
+  lightness: 0.2932918965816498
+  saturation: 0.14100614003837109
+  rhythmicContrast: 0.1522267390973866
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Hyphenics
